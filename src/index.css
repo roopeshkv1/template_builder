@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* Self-hosted F25 Bank Printer (Regular/Bold) */
-@font-face {
+/* @font-face {
   font-family: "F25 Bank Printer";
   src: url("/fonts/f25_bank_printer/F25_Bank_Printer.ttf") format("truetype"),
        url("/fonts/f25_bank_printer/F25_Bank_Printer.otf") format("opentype");
@@ -18,7 +18,7 @@
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-}
+} */
 
 :root {
   /* Brand font: F25 Bank Printer with safe fallbacks */
